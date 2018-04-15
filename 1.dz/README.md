@@ -1,0 +1,1 @@
+Potrebno instalirati paket librosa.
